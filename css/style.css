@@ -1,0 +1,133 @@
+body {
+    font-family: "sans-serif";
+    margin: 10px 80px;
+    background-image: url(../img/fantasy.jpg);
+}
+
+.white-c{
+    color: white;
+}
+.title-name {
+font-size: 69px;
+font-family: inherit;
+font-weight: 700;
+margin-top: 217px;
+}
+
+.under-tittle {
+font-size: 34px;
+font-family: inherit;
+font-weight: 700;
+margin-top: 9px;
+margin-right: 150px;
+}
+
+.connect-icon {
+float: right;
+margin: 13px;
+border-radius: 13px;
+}
+
+a.btn.btn-primary.inscription {
+    margin-top: -358px;
+    margin-left: -63px;
+    border-radius: 12px;
+    height: 48px;
+}
+.connect-icon button {
+border-radius: 12px;
+margin-top: -405px;
+}
+
+.connect-icon button:hover {
+background-color: ;
+}
+
+.content-option {
+display: flex;
+width: 100%;
+}
+
+.option {
+background-color: #cc2020;
+font-size: 30px;
+font-weight: 400;
+border-radius: 12px;
+padding: 4px;
+width: 56%;
+margin-left: 96px;
+margin-top: 90px;
+}
+
+.w-50 {
+width: 50%;
+}
+
+
+
+
+
+
+footer {
+margin-top: 200px;
+}
+
+.social-media {
+    display: flex;
+}
+.social-media p {
+    margin: 2px;
+}
+.media {
+
+}
+.media {
+    height: 99px;
+    width: 27px;
+}
+
+
+
+.inscr {
+    /* width: 50%; */
+    margin-left: 313px;
+    margin-top: 14px;
+    }
+    
+    .content-insc {
+    padding: 12px;
+    }
+    .backgreen {
+    background-color: #1f1;
+    border-radius: 12px;
+    }
+    
+    .input-form {
+    width: 651px;
+    height: 35px;
+    border-radius: 12px;
+    }
+    
+    .top-2 {
+    margin-top: 6px;
+    width: 112px;
+    }
+    .bouton-env:hover {
+    background-color: orange;
+    color: black;
+    }
+    .oublie-mdp {
+    color: rgb(17, 65, 221);
+    }
+    {
+    background-color: #000;
+    }
+    
+    .btn-danger {
+    float: right;
+    }
+    
+
+
+
+
